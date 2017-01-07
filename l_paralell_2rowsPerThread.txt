@@ -1,0 +1,140 @@
+Random seed = 222
+Matrix dimension N = 2.
+
+Initializing...
+
+A =
+	113.87, 53761.10;
+	13198.23, 17978.28;
+	
+B = [48783.79; 39907.45]
+
+Starting clock.
+Stopped clock.
+
+X = [ 1.79;  0.90]
+
+Elapsed time = 0.15 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0 ms.
+My system CPU time for parent = 0 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 4.
+
+Initializing...
+
+A =
+	113.87, 39907.45, 9008.66, 38891.88;
+	13198.23, 29091.74, 20344.64, 65219.02;
+	48783.79, 46397.34, 31084.17, 46464.85;
+	53761.10, 52677.97, 44237.36, 7751.24;
+	
+B = [17978.28; 32887.46; 56916.90; 54983.18]
+
+Starting clock.
+Stopped clock.
+
+X = [ 0.65;  0.18;  0.20;  0.23]
+
+Elapsed time = 0.297 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0 ms.
+My system CPU time for parent = 0 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 10.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+X = [-1.30;  1.72; -0.97;  0.72; -0.33;  0.18;  1.21; -0.35; -0.17;  0.31]
+
+Elapsed time = 0.584 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0 ms.
+My system CPU time for parent = 0 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 50.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+X = [ 0.37; -0.43; -1.05;  3.52; -0.89; -1.23;  2.50;  2.82; -3.34;  1.50;  0.28; -2.05;  4.45;  2.47; -0.26;  4.44;  3.62; -2.34;  0.46;  1.28;  0.22; -1.22; -2.65;  1.00;  1.36; -2.90; -0.02;  1.26;  0.81; -2.67; -0.75;  0.43; -0.23;  2.14; -3.15; -0.99;  0.08; -1.11; -0.72;  0.16;  1.89; -0.70;  1.08;  1.93; -2.18; -1.96; -1.01;  2.62; -4.48; -1.91]
+
+Elapsed time = 9.745 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0 ms.
+My system CPU time for parent = 0 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 100.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+Elapsed time = 5.242 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0 ms.
+My system CPU time for parent = 0 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 200.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+Elapsed time = 27.944 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0.003 ms.
+My system CPU time for parent = 0.001 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 500.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+Elapsed time = 190.1 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0.031 ms.
+My system CPU time for parent = 0.003 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 1000.
+
+Initializing...
+
+Starting clock.
+Stopped clock.
+
+Elapsed time = 1106.76 ms.
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0.182 ms.
+My system CPU time for parent = 0.01 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------
+Random seed = 222
+Matrix dimension N = 2000.
+
+Initializing...
+
+Starting clock.
